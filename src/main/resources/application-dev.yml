@@ -1,0 +1,9 @@
+logging:
+  level:
+    ROOT: INFO
+    org.springframework: INFO
+    java.sql.Connection: DEBUG
+    java.sql.Statement: DEBUG
+    org.apache: INFO
+    org.mongodb.driver: INFO
+    com.dmc: DEBUG
